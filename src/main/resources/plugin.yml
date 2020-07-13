@@ -1,0 +1,6 @@
+name: GameAPI
+version: ${project.version}
+main: de.marvinleiers.gameapi.APIMain
+api-version: 1.16
+authors: [Marvin2k0]
+website: www.marvinleiers.de
